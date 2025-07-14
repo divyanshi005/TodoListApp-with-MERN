@@ -40,12 +40,6 @@ node -v
 npm -v
 ```
 
-# Set up environment variables
-Create a .env file in the server directory with the following content:
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-```
 # Project Setup
 ```
 mkdir mern-todo-app
@@ -66,6 +60,12 @@ cd backend
 npm init -y
 npm install express mongoose cors dotenv
 npm install --save-dev nodemon
+```
+# Set up environment variables
+Create a .env file in the backend directory with the following content:
+```
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
 ```
 # Project structure
 ```
