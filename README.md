@@ -15,8 +15,9 @@ A full-stack Todo application built using the **MERN stack** (MongoDB, Express.j
 ## Click here to view the app: https://mlf7ssgv-5173.inc1.devtunnels.ms/
 
 ## 🖼️ Preview
-![WhatsApp Image 2025-07-14 at 09 59 50_45238efd](https://github.com/user-attachments/assets/f0a7577f-1d96-4c16-a765-cf94ff3b330d)
-![WhatsApp Image 2025-07-14 at 10 08 43_6e58254e](https://github.com/user-attachments/assets/29cd5a8e-87ab-4e54-9646-4dbcfaca0768)
+<img width="1920" height="939" alt="image" src="https://github.com/user-attachments/assets/4e784303-8986-4999-ac73-c98a9808727a" />
+
+<img width="1920" height="374" alt="image" src="https://github.com/user-attachments/assets/8907829b-a5ac-49b2-a0fa-2c25c7863a2f" />
 
 ## 📦 Tech Stack
 
