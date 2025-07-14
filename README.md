@@ -42,32 +42,36 @@ npm -v
 
 # Set up environment variables
 Create a .env file in the server directory with the following content:
-.env
+```
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-
+```
 # Project Setup
+```
 mkdir mern-todo-app
-
+```
 # Frontend Setup
+```
 npm create vite@latest frontend --template react-ts
 cd frontend
 npm install
 cd mern-todo-app
 code .
 npm install axios
-
+```
 # Backend Setup
+```
 mkdir backend
 cd backend
 npm init -y
 npm install express mongoose cors dotenv
 npm install --save-dev nodemon
-
+```
 # Project structure
+```
 mern-todo-app/
 ├── frontend/       # React + Vite + TS frontend
 ├── backend/        # Express + Mongoose backend
 └── README.md
-
+```
 Visit http://localhost:5173 to see the app in action.
